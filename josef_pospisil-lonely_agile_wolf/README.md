@@ -10,7 +10,7 @@ First computer (Atari 800XL in 1986) (quite feat in Czechoslovak socialistic rep
 
 I was first rubyist in Czech Republic, but due to my lurker personality, I haven't got famous. I have some quite big projects under my belt, mostly internal development for education. But now I am finishing one labour of love on which I would like to demonstrate my talk main theme.
 
-![Profile picture](https://github.com/euruko2012/call-for-proposals/raw/master/example/profile_picture.jpg)
+![Profile picture](https://github.com/pepe/call-for-proposals/blob/master/josef_pospisil-lonely_agile_wolf/profile_picture.jpg)
 
 - [My twitter](https://twitter.com/#!/damnpepe)
 
